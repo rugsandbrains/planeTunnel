@@ -1,4 +1,4 @@
 # planeTunnel
 Game From HackDFW 2016
 
-CLick fervishly to dig through the Earth!
+CLick feverishly to dig through the Earth!
